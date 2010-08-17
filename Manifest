@@ -1,3 +1,4 @@
-Rakefile
-lib/hello_gem.rb
 Manifest
+Rakefile
+helloworld.gemspec
+lib/hello_gem.rb

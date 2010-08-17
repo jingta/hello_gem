@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('helloworld', '0.0.1') do |p|
+Echoe.new('hello_gem', '0.0.1') do |p|
   p.description    = "A gem that illustrates how to build a gem"
   p.url            = "http://github.com/jingta/hello_gem"
   p.author         = "Jingta"
